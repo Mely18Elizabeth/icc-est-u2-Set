@@ -1,7 +1,7 @@
 ## NombrE: Melany Pintado
 
-![Vista general del proyecto](terminal.png)
-![Vista general del proyecto](termina2.png)
+![Vista general del proyecto](terminall.png)
+![Vista general del proyecto](terminal2.png)
 
 
 
