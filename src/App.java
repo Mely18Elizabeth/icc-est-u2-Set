@@ -1,3 +1,4 @@
+import controllers.ContactoController;
 import controllers.Sets;
 
 public class App {
@@ -16,5 +17,11 @@ public class App {
 
         System.out.println("-------TreeSet comparador alfabético-------");
         Sets.runTreeSetConComparadorAlfabetico();
+
+        System.out.println("-------------------");
+        ContactoController contactoController = new ContactoController();
+        System.out.println("numero---------------");
+        contactoController.runTreeContactoNumero();
+
     }
 }
