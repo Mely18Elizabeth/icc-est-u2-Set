@@ -8,7 +8,7 @@ public class App {
         System.out.println("------------LinkedHashSet-------------");
         Sets.runLinkedHashSet();
 
-        System.out.println("-----------TreeSet natural (alfabético)--------------");
+        System.out.println("-----------TreeSet natural--------------");
         Sets.runTreeSet();
 
         System.out.println("------------TreeSet con Comparador de longitud-----------");
