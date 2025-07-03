@@ -1,4 +1,5 @@
 import controllers.ContactoController;
+import ejercicios.Ejercicios;
 import controllers.Sets;
 
 public class App {
@@ -23,5 +24,7 @@ public class App {
         System.out.println("numero---------------");
         contactoController.runTreeContactoNumero();
 
+        System.out.println("-----------EJERCICIOS-------------");
+        Ejercicios ejercicios = new Ejercicios();
     }
 }
